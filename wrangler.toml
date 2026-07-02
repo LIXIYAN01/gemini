@@ -2,6 +2,3 @@ name = "gemini"
 main = "src/worker.mjs"
 compatibility_date = "2024-09-23"
 compatibility_flags = [ "nodejs_compat" ]
-routes = [
-  { pattern = "gemini.lixiyan.dpdns.org/*", zone_name = "dpdns.org" }
-]
